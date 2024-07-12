@@ -1,0 +1,9 @@
+body {
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  background-color: #848181;
+  background-image: url("C:\Users\Kushagra tiwari\my-app\public\back_ground.png");
+  background-size: cover;
+  /* background-repeat: no-repeat; */
+  /* background-position: center center; */
+  margin: 0;
+}
